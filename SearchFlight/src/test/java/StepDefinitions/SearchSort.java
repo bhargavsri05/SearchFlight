@@ -67,17 +67,6 @@ public class SearchSort {
 
 		Thread.sleep(2000);
 
-
-		//Code for selecting date in date picker
-
-
-		/*String date = "22-Jul-2020";
-		String splitter[] = date.split("-");
-		String month_year = splitter[0];
-		String day = splitter[7];	
-		System.out.println(month_year);
-		System.out.println(day);*/
-
 	}
 
 	@And("clicks search")
